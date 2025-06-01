@@ -1,10 +1,13 @@
-# Python OOP Assignments Overview
+# college-project-assignment-1
+---
+
+## Python OOP Assignments Overview
 
 This repository contains two Python-based assignments demonstrating object-oriented programming and GUI development:
 
 ---
 
-## 1. Library Management System (Console, OOP)
+### 1. Library Management System (Console, OOP)
 
 A menu-driven console application for managing a library's collection of books and ebooks. Features include:
 
@@ -13,7 +16,7 @@ A menu-driven console application for managing a library's collection of books a
 - **Interactive Menus:** Separate subsystems for books and ebooks with clear prompts.
 
 
-## 2. Car Loan Calculator Application (Tkinter GUI)
+### 2. Car Loan Calculator Application (Tkinter GUI)
 
 A desktop application for calculating car loan payments with a user-friendly interface. Features include:
 
