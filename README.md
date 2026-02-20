@@ -1,14 +1,19 @@
-# College Project — Assignment 1
+# <img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%238A2BE2" width="32" height="32" align="center" /> College Project — Lab 01
 
-> Two standalone Python desktop applications demonstrating OOP and GUI development: a Library Management System and a Car Loan Calculator.
+> **Two standalone Python desktop applications demonstrating OOP and GUI development.**
+> Featuring a modular Library Management System and a precision Car Loan Calculator.
 
-![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Tkinter](https://img.shields.io/badge/GUI-Tkinter-orange?style=for-the-badge)
-![OOP](https://img.shields.io/badge/Paradigm-OOP-blueviolet?style=for-the-badge)
+<div align="center">
+
+| Project Status | Stack                                                                                                   | Framework                                                                     | Paradigm           |
+| :------------- | :------------------------------------------------------------------------------------------------------ | :---------------------------------------------------------------------------- | :----------------- |
+| `STABLE`       | ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=white) | ![Tkinter](https://img.shields.io/badge/GUI-Tkinter-orange?style=flat-square) | `OOP Architecture` |
+
+</div>
 
 ---
 
-## 📋 Table of Contents
+## <img src="https://api.iconify.design/lucide:list.svg?color=%238A2BE2" width="20" height="20" align="center" /> Table of Contents
 
 - [Overview](#overview)
 - [Projects](#-projects)
@@ -26,7 +31,9 @@ This repository contains two Python assignments submitted as part of a college O
 
 ---
 
-## 📦 Projects
+---
+
+## <img src="https://api.iconify.design/lucide:package.svg?color=%238A2BE2" width="20" height="20" align="center" /> Projects
 
 ### 1. Library Management System
 
@@ -84,7 +91,9 @@ Where:
 
 ---
 
-## 💻 Tech Stack
+---
+
+## <img src="https://api.iconify.design/lucide:cpu.svg?color=%238A2BE2" width="20" height="20" align="center" /> Tech Stack
 
 | Layer             | Technology                  |
 | ----------------- | --------------------------- |
@@ -95,7 +104,9 @@ Where:
 
 ---
 
-## 🚀 Getting Started
+---
+
+## <img src="https://api.iconify.design/lucide:rocket.svg?color=%238A2BE2" width="20" height="20" align="center" /> Getting Started
 
 ### Prerequisites
 
@@ -127,7 +138,9 @@ python GUI_Car_App.py
 
 ---
 
-## 📁 Project Structure
+---
+
+## <img src="https://api.iconify.design/lucide:folder-tree.svg?color=%238A2BE2" width="20" height="20" align="center" /> Project Structure
 
 ```
 college-project-assignment-1/
